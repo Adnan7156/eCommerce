@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("image/svg+xml;charset=utf8,<svg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'><line x1='0' y1='8' x2='32' y2='8' stroke='black' stroke-width='4'/><line x1='0' y1='16' x2='32' y2='16' stroke='black' stroke-width='4'/><line x1='0' y1='24' x2='32' y2='24' stroke='black' stroke-width='4'/></svg>");
+  }
+  
+  .dropdown-item {
+    padding: 0.5rem 1rem;
+  }
+  
+  .footer {
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+  }
+  
+  .footer-col {
+    flex-basis: calc(33.333% - 2rem);
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .footer-col h6 {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-col ul li {
+    margin-bottom: 0.25rem;
+  }
+  
+  .footer-col ul li a {
+    color: #6c757d;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .footer-col ul li a:hover {
+    color: #007bff;
+  }
+  
+  .contact-us {
+    flex-basis: calc(33.333% - 2rem);
+    margin-right: 2rem;
+    text-align: center;
+  }
+  
+  .contact-us h6 {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-us p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .email {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .email:hover {
+    background-color: #0069d9;
+  }
