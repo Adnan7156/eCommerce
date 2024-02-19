@@ -12,9 +12,7 @@ body {
     font-size: 1.5rem;
   }
   
-  .navbar-toggler-icon {
-    background-image: url("image/svg+xml;charset=utf8,<svg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'><line x1='0' y1='8' x2='32' y2='8' stroke='black' stroke-width='4'/><line x1='0' y1='16' x2='32' y2='16' stroke='black' stroke-width='4'/><line x1='0' y1='24' x2='32' y2='24' stroke='black' stroke-width='4'/></svg>");
-  }
+ 
   
   .dropdown-item {
     padding: 0.5rem 1rem;
