@@ -1,74 +1,57 @@
-/* Add some margin to the top of the page */
-body {
-  margin-top: 20px;
+
+.header{
+  background-color: #1e232c;
+  padding-top: 4px;
+}
+.form-control {
+  width: 700px; 
+  text-align: center;
+  border-radius: 2.2rem;
 }
 
-/* Style the navigation bar */
-
 .navbar {
-  padding: 0;
- 
+  background-color: #343a40; 
+
+
 }
 
 .navbar-brand {
-  
-  padding: 0 15px;
+  font-size: 24px;
 }
 
-.navbar-nav {
-  padding: 0;
+.navbar-nav .nav-link {
+  color: #ffffff; 
 }
 
-.nav-item {
-  padding: 0 15px;
-}
 
-.nav-link {
-  padding: 0;
-}
-
-.form-control {
-  width: 50%;
-}
-
-/* Style the carousel */
-
-.carousel-inner {
-  height: 500px;
-}
-
-.carousel-item {
-  height: 500px;
-  background-position: center;
-  background-size: cover;
-}
-
-/* Style the cards */
 .card {
-  margin: 15px 0;
+  margin-bottom: 20px; 
+  
 }
 
 .card-title {
-  margin-bottom: 5px;
+  font-size: 18px; 
 }
 
 .card-subtitle {
-  margin-bottom: 15px;
+  font-size: 14px; 
+  color: #6c757d; 
 }
 
 .card-text {
-  margin-bottom: 15px;
+  font-size: 14px; 
 }
 
 .card-link {
-  margin-right: 5px;
+  color: #007bff; 
 }
 
-
-  <!---->
   .footer {
     background-color: #f8f9fa;
-    padding: 2rem 0;
+    padding: 2.5rem 0;
+    background-color:#1e232c;
+   
+    
   }
   
   .footer-col {
@@ -87,7 +70,7 @@ body {
   }
   
   .footer-col ul li a {
-    color: #6c757d;
+    color: #dce6ed;
     text-decoration: none;
     transition: color 0.2s ease-in-out;
   }
@@ -105,6 +88,12 @@ body {
   .contact-us h6 {
     font-weight: bold;
     margin-bottom: 0.5rem;
+    color: #dce6ed;
+  }
+  .contact-us p {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #dce6ed;
   }
   
   .contact-us p {

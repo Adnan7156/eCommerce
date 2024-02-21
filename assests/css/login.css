@@ -1,12 +1,13 @@
  body {
             font-family: Arial, sans-serif;
+            background-color: rgb(172, 181, 181);
         }
 
         .login {
             width: 300px;
             padding: 16px;
             margin: 0 auto;
-            background-color: white;
+            background-color: rgb(32, 181, 74);
             border: 1px solid black;
             border-radius: 4px;
         }
