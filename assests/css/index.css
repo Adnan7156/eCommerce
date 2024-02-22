@@ -1,18 +1,16 @@
-
-.header{
+.header {
   background-color: #1e232c;
   padding-top: 4px;
 }
 .form-control {
-  width: 700px; 
+  width: 700px;
   text-align: center;
   border-radius: 2.2rem;
 }
 
 .navbar {
-  background-color: #343a40; 
-
-
+  background-color: #343a40;
+  
 }
 
 .navbar-brand {
@@ -20,96 +18,92 @@
 }
 
 .navbar-nav .nav-link {
-  color: #ffffff; 
+  color: #ffffff;
 }
 
-
 .card {
-  margin-bottom: 20px; 
-  
+  margin-bottom: 20px;
 }
 
 .card-title {
-  font-size: 18px; 
+  font-size: 18px;
 }
 
 .card-subtitle {
-  font-size: 14px; 
-  color: #6c757d; 
+  font-size: 14px;
+  color: #6c757d;
 }
 
 .card-text {
-  font-size: 14px; 
+  font-size: 14px;
 }
 
 .card-link {
-  color: #007bff; 
+  color: #007bff;
 }
 
-  .footer {
-    background-color: #f8f9fa;
-    padding: 2.5rem 0;
-    background-color:#1e232c;
-   
-    
-  }
-  
-  .footer-col {
-    flex-basis: calc(33.333% - 2rem);
-    margin-right: 2rem;
-    margin-bottom: 2rem;
-  }
-  
-  .footer-col h6 {
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-  }
-  
-  .footer-col ul li {
-    margin-bottom: 0.25rem;
-  }
-  
-  .footer-col ul li a {
-    color: #dce6ed;
-    text-decoration: none;
-    transition: color 0.2s ease-in-out;
-  }
-  
-  .footer-col ul li a:hover {
-    color: #007bff;
-  }
-  
-  .contact-us {
-    flex-basis: calc(33.333% - 2rem);
-    margin-right: 2rem;
-    text-align: center;
-  }
-  
-  .contact-us h6 {
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-    color: #dce6ed;
-  }
-  .contact-us p {
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-    color: #dce6ed;
-  }
-  
-  .contact-us p {
-    margin-bottom: 0.5rem;
-  }
-  
-  .email {
-    display: inline-block;
-    background-color: #007bff;
-    color: #fff;
-    padding: 0.5rem 1rem;
-    border-radius: 0.25rem;
-    text-decoration: none;
-    transition: background-color 0.2s ease-in-out;
-  }
-  
-  .email:hover {
-    background-color: #1b7ae0;
-  }
+.footer {
+  background-color: #f8f9fa;
+  padding: 2.5rem 0;
+  background-color: #1e232c;
+}
+
+.footer-col {
+  flex-basis: calc(33.333% - 2rem);
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-col h6 {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.footer-col ul li {
+  margin-bottom: 0.25rem;
+}
+
+.footer-col ul li a {
+  color: #dce6ed;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.footer-col ul li a:hover {
+  color: #007bff;
+}
+
+.contact-us {
+  flex-basis: calc(33.333% - 2rem);
+  margin-right: 2rem;
+  text-align: center;
+}
+
+.contact-us h6 {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #dce6ed;
+}
+.contact-us p {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #dce6ed;
+}
+
+.contact-us p {
+  margin-bottom: 0.5rem;
+}
+
+.email {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.email:hover {
+  background-color: #1b7ae0;
+}
